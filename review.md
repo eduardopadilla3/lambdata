@@ -1,0 +1,2 @@
+-Summation function was very easy to follow and the commenting made it more understandable.
+-the second function was missing
